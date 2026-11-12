@@ -1,0 +1,6 @@
+{
+  "name": "WinLauncher",
+  "description": "Windows-like desktop launcher with taskbar, real-time digital clock, Start menu, customizable shortcuts, and quick search",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
